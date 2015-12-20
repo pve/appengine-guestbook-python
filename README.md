@@ -6,6 +6,8 @@ their Google account. Messages are stored in App Engine (NoSQL)
 High Replication Datastore (HRD) and retrieved using a strongly consistent
 (ancestor) query.
 
+Now pushing this to codeship
+
 ## Products
 - [App Engine][1]
 
