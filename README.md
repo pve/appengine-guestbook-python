@@ -7,6 +7,7 @@ High Replication Datastore (HRD) and retrieved using a strongly consistent
 (ancestor) query.
 
 Now pushing this to codeship
+Online at http://gbdemo-1165.appspot.com/
 
 ## Products
 - [App Engine][1]
